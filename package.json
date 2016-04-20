@@ -1,0 +1,26 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "\"A polling app\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martensonbj/ask-the-audience.git"
+  },
+  "keywords": [
+    "poll",
+    "audience",
+    "web",
+    "sockets"
+  ],
+  "author": "Brenna Martenson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martensonbj/ask-the-audience/issues"
+  },
+  "homepage": "https://github.com/martensonbj/ask-the-audience#readme"
+}
